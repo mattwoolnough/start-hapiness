@@ -1,6 +1,6 @@
 'use strict';
 
-// load deps
+// 1 load deps
 let server = require('./lib/server');
 
 server.start((err) => {
